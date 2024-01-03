@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\2 - Essential C++ Concept">
+      <UniqueIdentifier>{54132548-877e-448a-b676-81f9b4b42cc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\5 - Recursion">
+      <UniqueIdentifier>{ef956941-e226-4769-bbbd-120610aec381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\6 - Array Representations">
+      <UniqueIdentifier>{b073b37a-a113-4506-b68a-f6feb08750ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7 - Array ADT">
+      <UniqueIdentifier>{a0b48160-acb1-4a32-87af-befc3382d376}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9 - Matrices">
+      <UniqueIdentifier>{abbb1bad-4360-4d07-b300-a47240aef25a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11 - Linked list">
+      <UniqueIdentifier>{9654bdef-9f63-44e9-9aea-18ecf8c1c878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\13 - Stack">
+      <UniqueIdentifier>{8d45e2ce-5265-4c62-bf14-bfb944c2e5d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\14 - Queus">
+      <UniqueIdentifier>{73dbd955-aa4e-441f-ab3d-21b98b6f66b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\15 - Binary trees">
+      <UniqueIdentifier>{c5befa74-e3db-4163-9068-829fbe94a204}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2.2_Array.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.6_Structure.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.8_Pointer.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.10_Reference.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.12_Pointer-to-Structure.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.14_Functions.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.16-Parameter-Passing.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.18-Array-As-Parameter.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.20-Structure-as-parameter.c">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.21-Structure-and-function.c">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.22-C-2.21-to-Cpp.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="2.30-Template-Classes.cpp">
+      <Filter>Source Files\2 - Essential C++ Concept</Filter>
+    </ClCompile>
+    <ClCompile Include="5.50 - Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.52 - Global-Var-Recursion.cpp">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.56 - Tree Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.58 - Indirect Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.60 - Nested Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.62 - Sum of N Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.64 - Factorial Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.66 - Power Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.68 - Taylor series Recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.70 - Taylor series Horner rule.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.71 - Taylor series iterative .c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.73 - Fibonacci series.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.75 - nCr recursion.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.77 - Tower of Hanoi.c">
+      <Filter>Source Files\5 - Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="5.81 - Array Declaration.c">
+      <Filter>Source Files\6 - Array Representations</Filter>
+    </ClCompile>
+    <ClCompile Include="5.83 - Static and Dynamic Array.c">
+      <Filter>Source Files\6 - Array Representations</Filter>
+    </ClCompile>
+    <ClCompile Include="5.85 - Change Dimension.c">
+      <Filter>Source Files\6 - Array Representations</Filter>
+    </ClCompile>
+    <ClCompile Include="5.87 - 2D Array.c">
+      <Filter>Source Files\6 - Array Representations</Filter>
+    </ClCompile>
+    <ClCompile Include="7.95 - Array ADT.c">
+      <Filter>Source Files\7 - Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="7.101 - Linear and Bilinear Search.c">
+      <Filter>Source Files\7 - Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="7.111 - Shift and reverse.c">
+      <Filter>Source Files\7 - Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="7.115 - Merge sorted arrays.c">
+      <Filter>Source Files\7 - Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="9.144 - C Diagonal Matrix.c">
+      <Filter>Source Files\9 - Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="9.146 - Cpp Diagonal Matrix.cpp">
+      <Filter>Source Files\9 - Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="9.149 - C Lower Triangular.c">
+      <Filter>Source Files\9 - Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="9.150 - Cpp Lower Triangular.cpp">
+      <Filter>Source Files\9 - Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="9.162 - Sparse Matrix.c">
+      <Filter>Source Files\9 - Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="9.165 - Cpp Sparse Matrix.cpp">
+      <Filter>Source Files\9 - Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="11.175 - Display Linked list.c">
+      <Filter>Source Files\11 - Linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="13.234 - Stack using array.c">
+      <Filter>Source Files\13 - Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="14.257 - Queus C.c">
+      <Filter>Source Files\14 - Queus</Filter>
+    </ClCompile>
+    <ClCompile Include="14.258 - Cpp Queues.cpp">
+      <Filter>Source Files\14 - Queus</Filter>
+    </ClCompile>
+    <ClCompile Include="15.286 - C Binary Tree - Queue.h">
+      <Filter>Source Files\15 - Binary trees</Filter>
+    </ClCompile>
+    <ClCompile Include="15.286 - C binary tree.c">
+      <Filter>Source Files\15 - Binary trees</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
